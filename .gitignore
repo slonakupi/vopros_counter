@@ -1,0 +1,15 @@
+# IntellijIdea files
+*.iml
+.idea
+out
+*.ipynb
+!vopros_stat.ipynb
+
+#custom
+.old/*
+__pycache__/*
+.ipynb_checkpoints/*
+
+*.xlsx
+!in_template.xlsx
+
